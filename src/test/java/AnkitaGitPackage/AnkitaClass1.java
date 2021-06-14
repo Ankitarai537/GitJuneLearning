@@ -8,8 +8,8 @@ public class AnkitaClass1 {
 		System.out.println("Princi");
 		System.out.println("Roshan");
 		System.out.println("Ankita");
-		System.out.println("Lets see what happen to my local if not committed");
+System.out.println("Lets see what happen to my local if not committed");
 
-	}
+}
 
 }
